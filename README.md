@@ -12,7 +12,6 @@ Full Stack Web Developer • Blockchain Enthusiast
 
 ### 👨‍💻 About Me
 
-- 🎓 Computer Science Undergraduate at **SRM University AP**
 - 💻 Passionate about **Full Stack Web Development**
 - ⛓️ Currently exploring **Blockchain Development**
 - 🚀 Building projects to solve real-world problems
