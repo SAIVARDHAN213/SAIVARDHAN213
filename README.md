@@ -96,10 +96,4 @@ All of my projects are available here:
 
 ---
 
-### 📊 GitHub Stats
 
-<p align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=saivardhan213&show_icons=true&theme=github_dark&hide_border=true" alt="GitHub Stats"/>
-
-</p>
